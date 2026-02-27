@@ -1,0 +1,10 @@
+# Ignore folder sampah OS
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+
+# Jangan upload file backup atau temporary
+*.swp
+*~
+.env
