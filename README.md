@@ -36,6 +36,7 @@ Currently, I serve as a student leader and active delegate in international foru
 ---
 
 ## 🚀 Featured Projects
+- 🤖 **[MYTHICAL-AI](https://github.com/dafitrah6-droid/MYTHICAL-AI)**: My personal AI agent platform built for advanced reasoning, memory automation, and intelligent execution.
 - 🛡️ **[QuantumCyber Lab](https://github.com/dafitrah6-droid)**: Advanced security research & quantum simulations.
 - 🤖 **[Sobat Aman](https://github.com/dafitrah6-droid)**: AI-powered digital fraud prevention tool.
 - 🌐 **[Official Portfolio](https://dafitrah6-droid.github.io)**: Comprehensive showcase of my certifications and projects.
